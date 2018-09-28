@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  helloios
+//  Hello
 //
 //  Created by Aaron Nguyen on 9/28/18.
 //  Copyright © 2018 Aaron Nguyen. All rights reserved.

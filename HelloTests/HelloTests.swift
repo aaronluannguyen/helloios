@@ -1,15 +1,15 @@
 //
-//  helloiosTests.swift
-//  helloiosTests
+//  HelloTests.swift
+//  HelloTests
 //
 //  Created by Aaron Nguyen on 9/28/18.
 //  Copyright © 2018 Aaron Nguyen. All rights reserved.
 //
 
 import XCTest
-@testable import helloios
+@testable import Hello
 
-class helloiosTests: XCTestCase {
+class HelloTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
